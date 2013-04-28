@@ -9,6 +9,6 @@ Details:
 - simulates each photon as a specific wavelength, to allow for realistic caustic effects
 - ~1.6 million photons per second on an i7 quad core
 
-# running
+# Running
 
 Build with eclipse. Uses the processing library for a convenient frame buffer, which is already included.
